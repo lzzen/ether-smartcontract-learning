@@ -13,3 +13,9 @@ https://lzzen.github.io/panswap/
 PANT : 0x8eF06906cA5dA1ab4630CC6009C1Bc2fc7F789a3
 PANT(Kovan) : 0xf4ad6fcffcd1588a37ef6493bdb02f6f1eb62b73
 ```
+
+- 问题1：Ropsten网络报错：MetaMask - RPC Error: gas required exceeds allowance (8000000) or always failing transaction
+> {code: -32000, message: "gas required exceeds allowance (8000000) or always failing transaction"}
+
+- 问题2：Kovan网络报错：inpage.js:1 MetaMask - RPC Error: The execution failed due to an exception.
+> {code: -32016, message: "The execution failed due to an exception.", data: "Reverted"}
