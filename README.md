@@ -27,3 +27,18 @@ PANT(Kovan) : 0xf4ad6fcffcd1588a37ef6493bdb02f6f1eb62b73
 [![Lint](https://cryptozombies.io/course/favicon.ico)](https://cryptozombies.io/zh/lesson/10/chapter/6)
 - 测试节点
 > https://ropsten.infura.io/v3/8a264ceb1d1c4ab1a8acaf93fab04f15
+- 崔式发币
+> https://github.com/Fankouzu/smart-contract/tree/master/Solidity%20Lesson%2003
+- 部署
+> truffle migrate  --network ropsten
+- 控制台
+> truffle console --network ropsten
+- 打印
+> truffle(ropsten)> CryptoZombies
+- 崔式打印
+```
+var myCoin
+CryptoZombies.deployed().then(function(instance){myCoin=instance})
+myCoin
+```
+
