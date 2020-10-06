@@ -2,6 +2,8 @@
 以太坊智能合约学习笔记
 
 ## 2020中秋节部署Uniswap仿盘
+[![panswap](https://lzzen.github.io/panswap/static/media/logo.742edb09.svg)](https://lzzen.github.io/panswap)
+
 ```
 WETH : 0xc778417E063141139Fce010982780140Aa0cD5Ab
 
@@ -20,6 +22,8 @@ PANT(Kovan) : 0xf4ad6fcffcd1588a37ef6493bdb02f6f1eb62b73
 - 问题2：Kovan网络报错：inpage.js:1 MetaMask - RPC Error: The execution failed due to an exception.
 > {code: -32016, message: "The execution failed due to an exception.", data: "Reverted"}
 
+
 ## 2020中秋节部署CryptoZombies
+[![Lint](https://cryptozombies.io/course/favicon.ico)](https://cryptozombies.io/zh/lesson/10/chapter/6)
 - 测试节点
 > https://ropsten.infura.io/v3/8a264ceb1d1c4ab1a8acaf93fab04f15
